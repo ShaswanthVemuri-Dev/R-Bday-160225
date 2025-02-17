@@ -28,7 +28,7 @@ function App() {
           <a
             id="simulatorLink"
             className="simulator-btn"
-            href="YOUR_LINK_HERE"
+            href="https://ecs-qxop.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
